@@ -16,8 +16,5 @@ L: 1
 
 This is to represent the balance in the state:
 
-\81,27,1/     \100, 9/
-    |             |
-    ---------------
-         /\
-        /  \
+       \81,27,1/      \100, 9/
+    
